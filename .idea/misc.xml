@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.11 (market_django_testing)" />
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../integration-develop/robottests/Tests/keywords/globalVariables.robot">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

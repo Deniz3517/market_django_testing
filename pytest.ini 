@@ -1,0 +1,4 @@
+[pytest]
+DJANGO_SETTINGSexport DJANGO_SETTINGS_MODULE=market_django_testing.settings
+_MODULE = market_django_testing.settings
+python_files = tests.py test_*.py *_tests.py
